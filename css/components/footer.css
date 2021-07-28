@@ -1,0 +1,10 @@
+i.fab {
+	font-size: 300%;
+	text-align: center;
+	color: #C0C0C0;
+}
+
+i:hover {
+	color: #2F4F4F;
+  transform: scale(1.2)
+}
