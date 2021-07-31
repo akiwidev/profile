@@ -1,4 +1,4 @@
-.button-green {
+.btn-green {
   font-family: 'Montserrat', sans-serif;
   font-size: 85%;
   color: #FFFFFF;
@@ -6,13 +6,15 @@
   border-color: #2F4F4F;
   border-width: 1px;
   background-color: #08605F;
-  padding: 2%;
+  padding: 12px;
   box-shadow: 2px 2px 2px 1px #202020;
   margin: 1%;
   display: inline-block;
+  text-align: center;
+  width: 100%;
 }
 
-.button-green:hover {
+.btn-green:hover {
   color: #2F4F4F;
   background-color: #F8F8FF;
   transform: scale(1.1);

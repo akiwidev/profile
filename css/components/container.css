@@ -1,16 +1,13 @@
-.container {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  margin: 0 auto;
+.cards {
+  margin: 0;
 }
 
 .card {
   display: block;
   text-align: center;
-  margin: 0 0 10% 0;
+  margin: 0 0 24px 0;
   background-color: #EBECF0;
-  padding: 5%;
+  padding: 20px;
   border-radius: 5px;
 }
 

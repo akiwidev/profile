@@ -1,0 +1,5 @@
+.background-nz {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../../images/nz5.jpeg');
+  background-position: 50% 45%;
+  margin-bottom: 14px;
+}

@@ -4,3 +4,9 @@
 @import url("components/footer.css");
 @import url("components/card.css");
 @import url("components/container.css");
+@import url("components/background.css");
+
+body {
+  margin: 0;
+  text-align: center;
+}
